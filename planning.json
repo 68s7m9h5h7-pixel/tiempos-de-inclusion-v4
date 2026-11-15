@@ -1,0 +1,838 @@
+{
+ "app": "reparto-inclusion",
+ "version": 1,
+ "exportedAt": "2026-11-15T18:35:15.669Z",
+ "months": [
+  {
+   "key": "2026-09",
+   "label": "Septiembre 2026",
+   "year": 2026,
+   "month": 8,
+   "owners": {
+    "MAMA": "Raquel",
+    "DIG": "Clement",
+    "HIG": "Juan",
+    "LOC": "Sílvia",
+    "END": "Núria"
+   },
+   "necroRotation": "Altuna",
+   "schedule": [
+    {
+     "day": 1,
+     "weekday": "Martes",
+     "dia": "Lee",
+     "post": "Sílvia",
+     "tarde2": "Kasia",
+     "out": "Juan, Núria, Martín"
+    },
+    {
+     "day": 2,
+     "weekday": "Miércoles",
+     "dia": "Dani",
+     "post": "Lee",
+     "tarde2": "Clement",
+     "out": "Núria, Martín"
+    },
+    {
+     "day": 3,
+     "weekday": "Jueves",
+     "dia": "Juan",
+     "post": "Dani",
+     "tarde2": "Raquel",
+     "out": "Núria, Martín"
+    },
+    {
+     "day": 4,
+     "weekday": "Viernes",
+     "dia": "Kasia",
+     "post": "Juan",
+     "tarde2": "Lee",
+     "out": "Núria, Martín"
+    },
+    {
+     "day": 5,
+     "weekday": "Sábado",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    },
+    {
+     "day": 6,
+     "weekday": "Domingo",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    },
+    {
+     "day": 7,
+     "weekday": "Lunes",
+     "dia": "Xandre",
+     "post": "Kasia",
+     "tarde2": "Núria",
+     "out": "Martín"
+    },
+    {
+     "day": 8,
+     "weekday": "Martes",
+     "dia": "Clement",
+     "post": "Xandre",
+     "tarde2": "Altuna",
+     "out": "Lee, Martín"
+    },
+    {
+     "day": 9,
+     "weekday": "Miércoles",
+     "dia": "Altuna",
+     "post": "Clement",
+     "tarde2": "Kasia",
+     "out": "Sílvia, Lee, Martín"
+    },
+    {
+     "day": 10,
+     "weekday": "Jueves",
+     "dia": "Núria",
+     "post": "Altuna",
+     "tarde2": "Juan",
+     "out": "Lee, Martín"
+    },
+    {
+     "day": 11,
+     "weekday": "Viernes",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true,
+     "holiday": "Diada de Catalunya"
+    },
+    {
+     "day": 12,
+     "weekday": "Sábado",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    },
+    {
+     "day": 13,
+     "weekday": "Domingo",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    },
+    {
+     "day": 14,
+     "weekday": "Lunes",
+     "dia": "Clement",
+     "post": "Núria",
+     "tarde2": "Raquel",
+     "out": "Juan, Sílvia, Lee, Martín, Dani, Kasia"
+    },
+    {
+     "day": 15,
+     "weekday": "Martes",
+     "dia": "Altuna",
+     "post": "Clement",
+     "tarde2": "Xandre",
+     "out": "Juan, Sílvia, Lee, Martín, Dani, Kasia"
+    },
+    {
+     "day": 16,
+     "weekday": "Miércoles",
+     "dia": "Raquel",
+     "post": "Altuna",
+     "tarde2": "Xandre",
+     "out": "Juan, Sílvia, Lee, Martín, Dani, Kasia"
+    },
+    {
+     "day": 17,
+     "weekday": "Jueves",
+     "dia": "Juan",
+     "post": "Raquel",
+     "tarde2": "Clement",
+     "out": "Lee, Martín, Dani, Kasia"
+    },
+    {
+     "day": 18,
+     "weekday": "Viernes",
+     "dia": "Sílvia",
+     "post": "Juan",
+     "tarde2": "Dani",
+     "out": "Lee, Martín, Kasia"
+    },
+    {
+     "day": 19,
+     "weekday": "Sábado",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    },
+    {
+     "day": 20,
+     "weekday": "Domingo",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    },
+    {
+     "day": 21,
+     "weekday": "Lunes",
+     "dia": "Dani",
+     "post": "Sílvia",
+     "tarde2": "Martín",
+     "out": "Altuna, Lee, Martín, Xandre"
+    },
+    {
+     "day": 22,
+     "weekday": "Martes",
+     "dia": "Clement",
+     "post": "Dani",
+     "tarde2": "Raquel",
+     "out": "Altuna, Lee, Martín, Xandre"
+    },
+    {
+     "day": 23,
+     "weekday": "Miércoles",
+     "dia": "Raquel",
+     "post": "Clement",
+     "tarde2": "Martín",
+     "out": "Altuna, Lee, Martín, Xandre"
+    },
+    {
+     "day": 24,
+     "weekday": "Jueves",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": false,
+     "holiday": "La Mercè"
+    },
+    {
+     "day": 25,
+     "weekday": "Viernes",
+     "dia": "Núria",
+     "post": "Raquel",
+     "tarde2": "Sílvia",
+     "out": "Juan, Lee, Martín, Xandre, Dani"
+    },
+    {
+     "day": 26,
+     "weekday": "Sábado",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    },
+    {
+     "day": 27,
+     "weekday": "Domingo",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    },
+    {
+     "day": 28,
+     "weekday": "Lunes",
+     "dia": "Juan",
+     "post": "Núria",
+     "tarde2": "Martín",
+     "out": "Lee, Martín, Xandre, Kasia"
+    },
+    {
+     "day": 29,
+     "weekday": "Martes",
+     "dia": "Kasia",
+     "post": "Juan",
+     "tarde2": "Xandre",
+     "out": "Lee, Martín"
+    },
+    {
+     "day": 30,
+     "weekday": "Miércoles",
+     "dia": "Xandre",
+     "post": "Kasia",
+     "tarde2": "Altuna",
+     "out": "Lee, Martín"
+    }
+   ],
+   "hash": "uiyvq5"
+  },
+  {
+   "key": "2026-10",
+   "label": "Octubre 2026",
+   "year": 2026,
+   "month": 9,
+   "owners": {
+    "MAMA": "Clement",
+    "DIG": "Altuna",
+    "HIG": "Juan",
+    "LOC": "Núria",
+    "END": "Sílvia"
+   },
+   "necroRotation": "Raquel",
+   "schedule": [
+    {
+     "day": 1,
+     "weekday": "Jueves",
+     "dia": "Dani",
+     "post": "Xandre",
+     "tarde2": "Juan",
+     "out": "Lee, Kasia"
+    },
+    {
+     "day": 2,
+     "weekday": "Viernes",
+     "dia": "Núria",
+     "post": "Dani",
+     "tarde2": "Martín",
+     "out": "Lee, Kasia"
+    },
+    {
+     "day": 3,
+     "weekday": "Sábado",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    },
+    {
+     "day": 4,
+     "weekday": "Domingo",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    },
+    {
+     "day": 5,
+     "weekday": "Lunes",
+     "dia": "Clement",
+     "post": "Núria",
+     "tarde2": "Altuna",
+     "out": "Lee, Martín, Xandre"
+    },
+    {
+     "day": 6,
+     "weekday": "Martes",
+     "dia": "Martín",
+     "post": "Clement",
+     "tarde2": "Kasia",
+     "out": "Lee, Xandre"
+    },
+    {
+     "day": 7,
+     "weekday": "Miércoles",
+     "dia": "Kasia",
+     "post": "Martín",
+     "tarde2": "Raquel",
+     "out": "Juan, Lee, Xandre"
+    },
+    {
+     "day": 8,
+     "weekday": "Jueves",
+     "dia": "Raquel",
+     "post": "Kasia",
+     "tarde2": "Altuna",
+     "out": "Juan, Sílvia, Lee, Xandre"
+    },
+    {
+     "day": 9,
+     "weekday": "Viernes",
+     "dia": "Altuna",
+     "post": "Raquel",
+     "tarde2": "Dani",
+     "out": "Juan, Sílvia, Martín"
+    },
+    {
+     "day": 10,
+     "weekday": "Sábado",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    },
+    {
+     "day": 11,
+     "weekday": "Domingo",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    },
+    {
+     "day": 12,
+     "weekday": "Lunes",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": false,
+     "holiday": "Hispanidad"
+    },
+    {
+     "day": 13,
+     "weekday": "Martes",
+     "dia": "Juan",
+     "post": "Altuna",
+     "tarde2": "Xandre",
+     "out": "Martín, Dani"
+    },
+    {
+     "day": 14,
+     "weekday": "Miércoles",
+     "dia": "Sílvia",
+     "post": "Juan",
+     "tarde2": "Raquel",
+     "out": "Lee, Martín, Dani"
+    },
+    {
+     "day": 15,
+     "weekday": "Jueves",
+     "dia": "Clement",
+     "post": "Sílvia",
+     "tarde2": "Kasia",
+     "out": "Juan, Lee, Martín, Xandre, Dani"
+    },
+    {
+     "day": 16,
+     "weekday": "Viernes",
+     "dia": "Núria",
+     "post": "Clement",
+     "tarde2": "Juan",
+     "out": "Lee, Martín, Xandre, Dani"
+    },
+    {
+     "day": 17,
+     "weekday": "Sábado",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    },
+    {
+     "day": 18,
+     "weekday": "Domingo",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    },
+    {
+     "day": 19,
+     "weekday": "Lunes",
+     "dia": "Sílvia",
+     "post": "Núria",
+     "tarde2": "Dani",
+     "out": "Raquel, Martín, Xandre"
+    },
+    {
+     "day": 20,
+     "weekday": "Martes",
+     "dia": "Juan",
+     "post": "Sílvia",
+     "tarde2": "Clement",
+     "out": "Raquel, Martín, Xandre"
+    },
+    {
+     "day": 21,
+     "weekday": "Miércoles",
+     "dia": "Dani",
+     "post": "Juan",
+     "tarde2": "Kasia",
+     "out": "Raquel, Martín, Xandre"
+    },
+    {
+     "day": 22,
+     "weekday": "Jueves",
+     "dia": "Altuna",
+     "post": "Dani",
+     "tarde2": "Sílvia",
+     "out": "Raquel, Martín, Xandre"
+    },
+    {
+     "day": 23,
+     "weekday": "Viernes",
+     "dia": "Núria",
+     "post": "Altuna",
+     "tarde2": "Kasia",
+     "out": "Raquel, Martín, Xandre"
+    },
+    {
+     "day": 24,
+     "weekday": "Sábado",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    },
+    {
+     "day": 25,
+     "weekday": "Domingo",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    },
+    {
+     "day": 26,
+     "weekday": "Lunes",
+     "dia": "Kasia",
+     "post": "Núria",
+     "tarde2": "Juan",
+     "out": "Martín, Xandre"
+    },
+    {
+     "day": 27,
+     "weekday": "Martes",
+     "dia": "Raquel",
+     "post": "Kasia",
+     "tarde2": "Sílvia",
+     "out": "Altuna, Juan, Martín, Xandre"
+    },
+    {
+     "day": 28,
+     "weekday": "Miércoles",
+     "dia": "Juan",
+     "post": "Raquel",
+     "tarde2": "Dani",
+     "out": "Altuna, Martín, Xandre"
+    },
+    {
+     "day": 29,
+     "weekday": "Jueves",
+     "dia": "Sílvia",
+     "post": "Juan",
+     "tarde2": "Kasia",
+     "out": "Altuna, Martín, Xandre"
+    },
+    {
+     "day": 30,
+     "weekday": "Viernes",
+     "dia": "Dani",
+     "post": "Sílvia",
+     "tarde2": "Dani",
+     "out": "Altuna, Núria, Martín, Xandre"
+    },
+    {
+     "day": 31,
+     "weekday": "Sábado",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "dia": "",
+     "weekend": true
+    }
+   ],
+   "hash": "172aki7"
+  },
+  {
+   "key": "2026-11",
+   "label": "Noviembre 2026",
+   "year": 2026,
+   "month": 10,
+   "owners": {
+    "MAMA": "Altuna, Lee (repite), Kasia (16-30 repite)",
+    "URO": "Clement, Kasia (1-15 repite)",
+    "HIG": "Sílvia"
+   },
+   "necroRotation": "Raquel",
+   "schedule": [
+    {
+     "day": 1,
+     "weekday": "Domingo",
+     "dia": "",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "weekend": true
+    },
+    {
+     "day": 2,
+     "weekday": "Lunes",
+     "dia": "Raquel",
+     "post": "Kasia",
+     "tarde2": "Juan",
+     "out": "Altuna, Martín, Xandre, Dani",
+     "weekend": false
+    },
+    {
+     "day": 3,
+     "weekday": "Martes",
+     "dia": "Sílvia",
+     "post": "Raquel",
+     "tarde2": "Kasia",
+     "out": "Altuna, Martín, Xandre, Dani",
+     "weekend": false
+    },
+    {
+     "day": 4,
+     "weekday": "Miércoles",
+     "dia": "Martín",
+     "post": "Sílvia",
+     "tarde2": "Altuna",
+     "out": "Juan, Xandre, Dani, Kasia",
+     "weekend": false
+    },
+    {
+     "day": 5,
+     "weekday": "Jueves",
+     "dia": "Juan",
+     "post": "Martín",
+     "tarde2": "Clement",
+     "out": "Xandre, Dani, Kasia",
+     "weekend": false
+    },
+    {
+     "day": 6,
+     "weekday": "Viernes",
+     "dia": "Núria",
+     "post": "Juan",
+     "tarde2": "Martín",
+     "out": "Xandre, Dani, Kasia",
+     "weekend": false
+    },
+    {
+     "day": 7,
+     "weekday": "Sábado",
+     "dia": "",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "weekend": true
+    },
+    {
+     "day": 8,
+     "weekday": "Domingo",
+     "dia": "",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "weekend": true
+    },
+    {
+     "day": 9,
+     "weekday": "Lunes",
+     "dia": "Clement",
+     "post": "Núria",
+     "tarde2": "Martín",
+     "out": "Xandre, Dani, Kasia",
+     "weekend": false
+    },
+    {
+     "day": 10,
+     "weekday": "Martes",
+     "dia": "Altuna",
+     "post": "Clement",
+     "tarde2": "Sílvia",
+     "out": "Xandre, Dani",
+     "weekend": false
+    },
+    {
+     "day": 11,
+     "weekday": "Miércoles",
+     "dia": "Juan",
+     "post": "Altuna",
+     "tarde2": "Martín",
+     "out": "Xandre, Dani",
+     "weekend": false,
+     "necro": "Kasia"
+    },
+    {
+     "day": 12,
+     "weekday": "Jueves",
+     "dia": "Kasia",
+     "post": "Juan",
+     "tarde2": "Raquel",
+     "out": "Xandre, Dani",
+     "weekend": false
+    },
+    {
+     "day": 13,
+     "weekday": "Viernes",
+     "dia": "Lee",
+     "post": "Kasia",
+     "tarde2": "Clement",
+     "out": "Xandre, Dani",
+     "weekend": false
+    },
+    {
+     "day": 14,
+     "weekday": "Sábado",
+     "dia": "",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "weekend": true
+    },
+    {
+     "day": 15,
+     "weekday": "Domingo",
+     "dia": "",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "weekend": true
+    },
+    {
+     "day": 16,
+     "weekday": "Lunes",
+     "dia": "Raquel",
+     "post": "Lee",
+     "tarde2": "Juan",
+     "out": "Altuna, Sílvia, Xandre, Dani",
+     "weekend": false
+    },
+    {
+     "day": 17,
+     "weekday": "Martes",
+     "dia": "Kasia",
+     "post": "Raquel",
+     "tarde2": "Juan",
+     "out": "Sílvia, Xandre, Dani",
+     "weekend": false
+    },
+    {
+     "day": 18,
+     "weekday": "Miércoles",
+     "dia": "Martín",
+     "post": "Kasia",
+     "tarde2": "Lee",
+     "out": "Xandre, Dani",
+     "weekend": false
+    },
+    {
+     "day": 19,
+     "weekday": "Jueves",
+     "dia": "Sílvia",
+     "post": "Martín",
+     "tarde2": "Altuna",
+     "out": "Xandre, Dani",
+     "weekend": false
+    },
+    {
+     "day": 20,
+     "weekday": "Viernes",
+     "dia": "Altuna",
+     "post": "Sílvia",
+     "tarde2": "Clement",
+     "out": "Xandre, Dani",
+     "weekend": false
+    },
+    {
+     "day": 21,
+     "weekday": "Sábado",
+     "dia": "",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "weekend": true
+    },
+    {
+     "day": 22,
+     "weekday": "Domingo",
+     "dia": "",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "weekend": true
+    },
+    {
+     "day": 23,
+     "weekday": "Lunes",
+     "dia": "Clement",
+     "post": "Altuna",
+     "tarde2": "Núria",
+     "out": "Xandre, Dani",
+     "weekend": false
+    },
+    {
+     "day": 24,
+     "weekday": "Martes",
+     "dia": "Lee",
+     "post": "Clement",
+     "tarde2": "Kasia",
+     "out": "Xandre, Dani",
+     "weekend": false
+    },
+    {
+     "day": 25,
+     "weekday": "Miércoles",
+     "dia": "Altuna",
+     "post": "Lee",
+     "tarde2": "Sílvia",
+     "out": "Xandre, Dani",
+     "weekend": false
+    },
+    {
+     "day": 26,
+     "weekday": "Jueves",
+     "dia": "Martín",
+     "post": "Altuna",
+     "tarde2": "Kasia",
+     "out": "Xandre, Dani",
+     "weekend": false
+    },
+    {
+     "day": 27,
+     "weekday": "Viernes",
+     "dia": "Núria",
+     "post": "Martín",
+     "tarde2": "Raquel",
+     "out": "Xandre, Dani",
+     "weekend": false
+    },
+    {
+     "day": 28,
+     "weekday": "Sábado",
+     "dia": "",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "weekend": true
+    },
+    {
+     "day": 29,
+     "weekday": "Domingo",
+     "dia": "",
+     "post": "",
+     "tarde2": "",
+     "out": "",
+     "weekend": true
+    },
+    {
+     "day": 30,
+     "weekday": "Lunes",
+     "dia": "Lee",
+     "post": "Núria",
+     "tarde2": "Kasia",
+     "out": "Xandre, Dani",
+     "weekend": false
+    }
+   ],
+   "hash": "1ozyokz"
+  }
+ ]
+}
